@@ -1,0 +1,4 @@
+function ver_todas (){
+
+    
+}
