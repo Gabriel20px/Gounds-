@@ -176,7 +176,18 @@ li:hover{
     transform: scale(1.02);
 }
 
-
+.missoes_container{
+    margin-top: 30px;
+    border-radius: 12px;
+    border: 1px solid #0000007f;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    display: block;
+    color: #ffffff;
+}
 
 
 
